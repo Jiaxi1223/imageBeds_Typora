@@ -41,4 +41,5 @@ bzip2 -d <input_file.bz2>
                          
 > https://www.linuxcool.com/bzip2
 
+![image](https://github.com/user-attachments/assets/2ea690b9-d278-47b3-9835-e5093eb87d72)
 
